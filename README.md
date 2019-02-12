@@ -5,10 +5,10 @@ These are a few key points to keep in mind while using the standard default java
 Don't hesitate to leave your remarks beneath.
 
 # The process
-We have created UUID array, map and object.
-We used same UUID for all of them, the total count of UUID's are same for all.
+UUID array, map and object are used to compare performance
+Same UUID's used for all of them, the total count of UUID's are also same for all.
 
-We compared performance of 
+Performance comparision done for  
     insert operation
     find operation
     delete operation 
