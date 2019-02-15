@@ -13,9 +13,9 @@ Averate of 10 operation is considered for comparision.
 
 
 Performance comparision done for  
-...    insert operation
-...    find operation
-...    delete operation 
+⋅⋅⋅    insert operation
+⋅⋅⋅    find operation
+⋅⋅⋅   delete operation 
 
 | Action/Size    | 100000 | 200000 | 300000 | 400000 | 500000 | 600000 | 700000 | 800000 | 900000  | 1000000 |
 |----------------|--------|--------|--------|--------|--------|--------|--------|--------|---------|---------|
@@ -30,9 +30,9 @@ Performance comparision done for
 | Insert->Object | 0.0017 | 0.0016 | 0.0017 | 0.0016 | 0.0036 | 0.0017 | 0.0017 | 0.0022 | 0.0022  | 0.0026  |    
     
 # Observation
-...Find Operation, Array takes maximum time, Map and Object Find is almost similar performance
-...Delete Operation, Map takes maximum time and Object is the fastest 
-...Insert Operation, Map takes maximum time and Object is the fastest
+⋅⋅⋅Find Operation, Array takes maximum time, Map and Object Find is almost similar performance
+⋅⋅⋅Delete Operation, Map takes maximum time and Object is the fastest 
+⋅⋅⋅Insert Operation, Map takes maximum time and Object is the fastest
 # Ackonwledgement
 [Create Command line Javascript application] (https://opensource.com/article/18/7/node-js-interactive-cli)
 
@@ -43,7 +43,7 @@ Performance comparision done for
 [Article on Array, Map, Object ](-https://codeburst.io/array-vs-set-vs-map-vs-object-real-time-use-cases-in-javascript-es6-47ee3295329b)
 
 # TO DO
--User different type of meathods to manage arrays (find/insert/delete)
--User different type of meathods to manage Object (delete)
+⋅⋅⋅User different type of meathods to manage arrays (find/insert/delete)
+⋅⋅⋅User different type of meathods to manage Object (delete)
 
 Please feel free to contribute
